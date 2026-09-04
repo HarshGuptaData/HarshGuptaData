@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Harsh Gupta 👋</h1>
-<h3 align="center">Data Analyst | SQL • Python • Power BI • Azure</h3>
+<h3 align="center">Data Analyst | SQL • Python • Power BI • Azure * Microsoft Fabric</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+business+decisions;5%2B+years+building+dashboards+%26+ETL+pipelines;SQL+%7C+Python+%7C+Power+BI+%7C+Azure+Data+Factory" alt="Typing SVG" />
@@ -41,16 +41,6 @@
   <img src="https://img.shields.io/badge/DAX-0175C2?style=flat-square&logo=powerbi&logoColor=white" />
   <img src="https://img.shields.io/badge/SSRS-7B68EE?style=flat-square&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/VBA-6E4C13?style=flat-square&logo=microsoftoffice&logoColor=white" />
-</p>
-
----
-
-### 📈 GitHub Stats
-
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshGuptaData&hide_border=true" />
 </p>
 
 ---
