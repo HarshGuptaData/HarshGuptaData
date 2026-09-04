@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Harsh Gupta 👋</h1>
-<h3 align="center">Data Analyst | SQL • Python • Power BI • Azure * Microsoft Fabric</h3>
+<h3 align="center">Data Analyst | SQL • Python • Power BI • Azure • Microsoft Fabric</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+business+decisions;5%2B+years+building+dashboards+%26+ETL+pipelines;SQL+%7C+Python+%7C+Power+BI+%7C+Azure+Data+Factory" alt="Typing SVG" />
